@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  # resources を使ったルーティング
+  # resourcesを使用したルーティング
   resources :users
 end
